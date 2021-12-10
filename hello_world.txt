@@ -1,0 +1,2 @@
+Adding some text to it
+I will now save and stage it
